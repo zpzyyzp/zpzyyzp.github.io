@@ -1,0 +1,68 @@
+/*
+Theme Name: habakiri-child
+Theme URI: http://2inc.org ( テーマのURL )
+Description: Habakiri の子テーマです ( テーマの説明 )
+Author: Takashi Kitajima ( 作者名 )
+Author URI: http://2inc.org ( 作者のURL )
+Version: 1.0.0
+License: GNU General Public License
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Template: habakiri
+*/
+
+body {
+    /* ゴシック体の場合 */
+    font-family: "Roboto", "Droid Sans", "游ゴシック", "YuGothic", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", sans-serif;
+    line-height: 1.8;
+    font-weight: 500;
+}
+
+.page-header {
+    margin: 0px;
+    padding-top: 12px;
+}
+
+.breadcrumbs {
+    margin-bottom: 1em;
+}
+
+p, ul, ol, dl, table {
+    margin-bottom: 20px;
+}
+
+h2, .h2 {
+    font-size: 26px;
+    margin: 40px 0 20px;
+}
+
+h3, h3 {
+    font-size: 22px;
+}
+
+.copyright {
+    background-color: #893a66;
+    color: #ffffff;
+    padding: 0;
+}
+
+.constitution h5 {
+    margin-bottom: 0px;
+    padding-left: 46px;
+    text-indent: -46px;
+}
+
+.constitution ol li {
+    margin-left: 7px;
+}
+
+.white>a {
+    color: #ffffff;
+}
+
+.white {
+    color: #ffffff;
+}
+
+.underline {
+    text-decoration: underline;
+}

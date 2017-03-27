@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>会誌 &#8211; 身体表象文化学会</title>
+	<atom:link href="/category/publish/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The Gakushuin Society for Cultural Studies on Corporeal and Visual Representation</description>
+	<lastBuildDate>Sun, 26 Mar 2017 09:48:43 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/03/logo-gold-170x150.png</url>
+	<title>会誌 &#8211; 身体表象文化学会</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>バックナンバーデモ</title>
+		<link>/publish/backnumber01/</link>
+		<pubDate>Sun, 26 Mar 2017 09:48:03 +0000</pubDate>
+		<dc:creator><![CDATA[zpzyyzp]]></dc:creator>
+				<category><![CDATA[会誌]]></category>
+
+		<guid isPermaLink="false">/?p=101</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
+	</channel>
+</rss>
